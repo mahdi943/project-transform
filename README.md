@@ -1,6 +1,6 @@
 # project-transform
 
-##Task:
+## Task:
 Take a photograph of one of the corridors of our faculty (G-Floor), and then apply a projective
 transformation to it, so as to produce the side view (from the wall towards the inner garden)
 
